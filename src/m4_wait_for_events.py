@@ -360,6 +360,8 @@ def prime_gap(m):
             return y
         y = x
 
+#Eddie Mannan helped me with the above section of code
+
 
 
 
