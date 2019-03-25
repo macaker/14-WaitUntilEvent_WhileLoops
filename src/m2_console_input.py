@@ -3,7 +3,7 @@ This module demonstrates lets you practice INPUT from the CONSOLE.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
+         and Emily Macak.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
