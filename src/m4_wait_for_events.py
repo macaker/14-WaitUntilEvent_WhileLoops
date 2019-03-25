@@ -513,7 +513,7 @@ def wait_for_sum_of_cubes(x):
     if x <= 0:
         return 1
     while True:
-        if x >= total:
+        if x > total:
             k = k + 1
             total= total + k**3
         else:
